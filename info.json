@@ -1,0 +1,11 @@
+{
+    "name": "BotStart",
+    "version": "0.3.0",
+    "factorio_version": "2.0",
+    "dependencies": [ "base >= 2.0" ],
+    "title": "Simple Bot Start",
+    "author": "Trionicb",
+    "contact": "trionicb@gmail.com",
+    "homepage": "",
+    "description": "Start with Power Armor Mk.2, four personal roboport mk.2, 50 construction robots, four portable fission reactors, two battery mk.2s and four energy shield mk.2s. Updated for Factorio 2.0 / Space Age (the old portable fusion reactor is now the portable fission reactor)."
+}

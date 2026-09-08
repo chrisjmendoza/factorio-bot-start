@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2026-09-06
+  Changes:
+    - Updated for Factorio 2.0 / Space Age.
+    - The removed portable fusion reactor is now the portable fission reactor.
