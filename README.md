@@ -1,6 +1,7 @@
 # Simple Bot Start (BotStart)
 
-An update of Trionicb's *Simple Bot Start* for Factorio 2.0 / Space Age.
+An update of Trionicb's *Simple Bot Start* for Factorio 2.1 / Space Age
+(Factorio 2.0 players: use version 0.3.0).
 
 ## What it does
 
