@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 2026-11-24
+  Features:
+    - New map setting: starting worker robot speed level (0-5, default 5). The bots keep the speed they had on the ship; research stacks on top. Changing the setting mid-game adjusts the bonus.
+---------------------------------------------------------------------------------------------------
 Version: 0.3.1
 Date: 2026-11-22
   Changes:
@@ -9,3 +14,4 @@ Date: 2026-09-06
   Changes:
     - Updated for Factorio 2.0 / Space Age.
     - The removed portable fusion reactor is now the portable fission reactor.
+
